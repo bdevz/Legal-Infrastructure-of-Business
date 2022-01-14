@@ -1,0 +1,93 @@
+Group Post By: Aviva Kapust, Bharat Bhate, Josh Anderson, Tenisha Grimmer
+
+Presentation: https://slides.com/bb786/nftlaw
+
+What is NFT
+
+Non-Fungible Token (NFT) started as a derivative of the smart contract of Etherium (Now NFT are supported on various other cryptocurrencies), As per Oxford Dictionary, Fungible means (of goods contracted for without an individual specimen being specified) are able to replace or be replaced by another identical item; in simpler terms - mutually interchangeable. Something that is Non-Fungible simply means unique and non-replaceable. 
+
+When Compared to Crypotocurriencies, NFT is novel which cannot be exchanged like-for-like (equivalently, non-fungible), making it suitable for identifying something or someone in a unique way, this of Title of your Car. An NFT creator can easily prove the existence and ownership of digital assets because underneath NFT is a smart contract that is on a blockchain. 
+
+Blockchains provide a coordination layer for digital assets, giving users ownership and management permission. Blockchains add several unique properties to non-fungible assets that change the user and developer relationships with these assets.
+
+Moreover, the creator can also earn royalties each time of a successful trade on any NFT market or by the peer-to-peer exchange. Full-history tradability, deep liquidity, and convenient interoperability enable NFT to become a promising intellectual property (IP)-protection solution. Although, in essence, NFTs represent little more than code, the codes to a buyer have ascribed value when considering its comparative scarcity as a digital object. 
+
+NFT Market Takes Off
+
+Recent estimates show that the NFT market has jumped from a total of $13.7 million in traceable NFT transactions in early 2020 to $2.5 billion in the first half of 2021 and $10.7 billion in quarter 3 of 2021 alone. [3] [4] Beeple’s “Everydays: The first 5000 days” sold for a record $69.3 million this past March through Christie’s Auction House.
+
+Digital assets aren’t the only option for NFTs though and the market could soon expand to include real estate and other physical assets. Some believe that NFTs could make real estate investing more accessible and could also make market prices for real estate more accurate. A real-time market trading fractionalized real estate NFTs might better capture the value of a physical asset than current methods such as the traditional appraisal. However, this type of arrangement would come with its own questions about ownership and collateral. If people own a portion of a home through NFTs, can they decide what to do with the house if they have more than 50% of the tokens? Can they borrow against their own in that real estate? Despite this concept being relatively new, there have been some examples of this type of NFT, such as the sale of TechCrunch founder Michael Arrington’s apartment as an NFT in 2017. [5] While real-world assets NFTs may develop further in the future, NFT digital artworks also have many questions still to be answered around copyrights and ownership.
+
+NFT Legal Landscape
+
+Ownership and Copyright Rights
+
+Currently, the limitations in NFT ownership and copyright rights are not much different from those applicable to the sale of physical artworks. In both physical and digital sales of artworks, the bundle of copyrights belongs to the original artist (or other owners as in the case of works made for hire) unless an external agreement is made between the original artist and the buyer. In the case of an NFT sale, the buyer owns nothing more than a unique hash on the blockchain with a transactional record and a hyperlink to the file of the artwork.
+
+Resale
+
+In the physical realm, a buyer may resell a work they “first purchased” without violating the artist’s distribution right. This is pursuant to the first sale doctrine which states that a copyright owner cannot prevent someone who has lawfully purchased a copyrighted work, such as a book, from selling, loaning, or giving that item to someone else. In the digital realm, the first sale doctrine’s applicability and enforceability are much less clear. 
+
+Historically, the sale (think, transfer) of digital work has required a seller to make a reproduction of the work (think, copy the file). Thus, courts have determined the sale of digital assets to be outside the scope of the first sale doctrine which does not allow for copying and distributing works. For example, in Capitol Records LLC v. ReDigi Inc. (2d Cir. 2018), the Second Circuit refused to apply the first sale doctrine to the resale of an MP3 file because “the resale would require making an unauthorized reproduction of the original MP3 file. In effect, the MP3 resold was not technically the MP3 first sold. It was a new copy, even if the old one was destroyed after copying.”
+
+NFT technology does not require a seller to reproduce a work in order to facilitate a sale and, therefore, may offer an alternative, lawful way to effectuate a digital-first sale. On the one hand, when someone buys an NFT, they do not purchase a file containing the work tied to the NFT. The buyer purchases the token that represents the work. Consistent with the first sale doctrine, the NFT owner will only be reselling what was first sold—the NFT itself. On the other hand, if the new owner of the NFT accesses the underlying work, and this access involves the creation of a new copy of the work or distribution of it, then the transfer of the NFT could fall outside the scope of the first sale doctrine and create potential copyright liability.
+
+Until courts are adequately pressured to create a digital-first sale doctrine that is responsive to new technological developments, buyers and sellers must take it upon themselves to carefully consider copyright issues when drafting sale agreements and when choosing an NFT platform through which to sell their works. Currently, most high-value NFT sale agreements explicitly provide that NFT buyers have the right to resell the NFT. Some sales agreements go further and provide that the artist is to receive a set percentage of resale royalties. 
+
+NFTs + Copyfraud and Infringement of Copyright and Moral Rights
+
+Without legal parameters and more widespread education, both intentional and unintentional copyfraud, and infringement of copyright and moral rights is inevitable. 
+
+For example, a person could mint an NFT of a public domain work and falsely claim to own the copyright in the underlying asset as an original work. Such is the case with Global Art Museum (GAM) who is tokenizing public domain works and placing them for sale in the NFT marketplace OpenSea. GAM is “an art initiative that aims to transform grand Old Masters, from the Renaissance to Neoclassicism, into NFTs.” They claim that each painting is unique in the collection and that 10% of sales will go to the museum.
+
+Similarly, an individual could infringe copyright and moral rights in a work by misrepresenting that they are the author or copyright owner of the underlying work represented by the NFT. Take for example the 2021 case Roc-A-Fella Records, Inc., Plaintiff, v. Damon Dash, Defendant. Here, Roc-A-Fella alleges that Dash partnered with NFT platform SuperFarm to auction an NFT of Jay-Z’s 1996 debut album Reasonable Doubt. Dash claimed that he did not steal or attempt to sell the copyright to Reasonable Doubt. Rather, he merely sought to sell his one-third ownership interest in RAF, inc. in the form of an NFT that represented future royalties from album sales. The lawsuit states that Dash didn’t actually have the IP rights to convey that broad transfer of IP rights in the NFT. The complaint further alleges that Dash only owns a minority share in the record label, and as such he does not have the right to sell company assets outright. Ultimately, the auction was canceled at Roc-A-Fella’s request. But had the auction gone through, the results and implications of the sale are anyone’s guess. At this time, recourse against individuals who mint and sell fraudulent NFT’s is unclear and expensive to pursue; the path is even less clear for (naive) buyers of these fraudulent NFTs.
+
+The tension between NFT’s and Data Protection 
+
+With the rapid growth of the market for NFTs, at least two core data security and privacy issues have come into focus, with likely more to follow as we understand the unique contours of the space more fully.
+
+First, there’s the issue of security of access to the NFT itself. As you would expect, as the value of some NFTs has skyrocketed hacking attempts have followed. Just as there’s a dark and storied world of art theft, cybercriminals are now targeting NFTs in both predictable and creative ways. The private keys to access NFTs are often stored centrally on NFT marketplaces. Cybercriminals use a variety of means to “take over” people’s accounts (phishing, brute force, etc.), access their keys, then sell or move the NFT without authorization. And, because of the immutable and decentralized nature of NFTs, they’re very hard to recover once access has been compromised and, as of now, the rightful owner has little recourse.[1] There are obvious steps marketplaces and users can take to mitigate risk, like multi-factor ID, but this is sure to be a continuing concern in the NFT market in the near term.
+
+Second, there are emerging personal privacy issues. Through NFT transactions, certain user information – a pseudonym, date and amount of purchase, and any other key terms of sale – are recorded and thus enshrined publicly and immutably in the blockchain. On its face, this might seem to run afoul of key provisions of the EU’s General Data Protection Regulation (GDPR), which we learned about last week. Specifically, this could violate the so-called “right to be forgotten.” While we don’t know how judges might rule on this question, there are some strong arguments for why this doesn’t violate GDPR provisions. For one, there’s a reasonable argument for consent – buyers and sellers can reasonably be expected to understand the very basic elements of how NFTs and blockchain work, including an immutable public record. Further, as European legal expert Jetse Sprey notes, “the right to be forgotten is not an absolute right.” The law considers the purpose and use of the data and, specifically, whether there’s a reasonable argument that the data is still needed. Given the fundamental properties of blockchain, there’s clearly a compelling argument that the data is still needed. This is also not a question that’s unique to NFTs. Rather, it’s a question and issue that would implicate all blockchain, and the fact that it’s not fallen to this issue over the last decade since the emergence of cryptocurrencies suggests that NFTs are likely on solid ground on this point.[2]
+
+Regulatory Environment
+
+All of these possibilities mean that regulators will need to stay ahead of the NFT market but as of today, they are lagging behind. The IRS hasn’t technically issued NFT specific guidance but the currently accepted reporting for this includes recognizing ordinary income subject to self-employment taxes for NFTs created and sold while NFT investors can expect tax treatment similar to that of cryptocurrency, meaning that buying and selling NFTs results in taxable events. [6] [7] NFTs are also not yet directly regulated by other financial authorities as questions about the rights transferred and the nature of NFTs continue to be decided.
+
+Most NFTs fall into the collectible category but smart contracts mean that future NFTs could have rights to future profits that may fall into security territory. For example, NFT creators can often earn continued royalties every time the NFT they’ve created is sold to someone new and there may be a time where artists want to sell the rights to those future profits to someone else. [8] The NFT space had one of its first lawsuits, Jeeun Friel vs Dapper Labs, Inc and Roham Gharegozlu, which directly argues that some NFTs should be considered securities. In this case, the plaintiff argues that NBA Top Shot Moments NFTs that were sold should be recognized as securities since the seller made millions off their sale and buyers bought those NFTs with the expectation that their value would increase. [9] This lawsuit is specifically looking to recover damages for investors in these NFTs.
+
+The EU is currently working on a proposal called Regulation of Markets in Crypto Assets (MiCA) which aims to provide a regulatory framework for cryptoassets. [10] While the US is still working to define cryptocurrency and NFTs, it is likely that any future regulatory framework will include input not only from the SEC (Securities and Exchange Commission) but also the Federal Reserve, FinCEN (Financial Crimes Enforcement Network), the CFTC (Commodity Futures Trading Commission), and the Treasury. [11] Questions such as whether NFTs should be a commodity or security, how intellectual property rights apply, as well as how to protect investors from scams/fraudulent activity will be a new frontier in the regulation of digital asset ownership. [12]
+
+-----------------------------------------------------------------------------------------
+
+[1] Doan, Johnson, Rusmussen, et al. “NFTs: Key U.S. Legal Considerations for an Emerging Asset Class” retrieved from: https://www.jonesday.com/en/insights/2021/04/nfts-key-us-legal-considerations-for-an-emerging-asset-class 
+
+[2] Sprey, Jetse. “NFTs: Data and Privacy Protection”. Retrieved from: https://www.vwsadvocaten.nl/en/nfts-privacy-and-data-protection/
+
+[3] https://www.reuters.com/technology/nft-sales-volume-surges-25-bln-2021-first-half-2021-07-05/
+
+[4] https://gadgets.ndtv.com/cryptocurrency/news/cryptocurrency-nft-sales-surge-q3-2021-usd-10-7-billion-buying-frenzy-opensea-dappradar-2564362
+
+[5] https://finance.yahoo.com/news/techcrunch-founder-selling-apartment-nft-130000525.html
+
+[6] https://www.journalofaccountancy.com/news/2021/jun/tax-consequences-of-nfts-nonfungible-tokens.html
+
+[7] https://news.bloombergtax.com/daily-tax-report/how-are-non-fungible-tokens-nfts-taxed
+
+[8] https://www.jdsupra.com/legalnews/nfts-but-is-it-art-or-a-security-1053589/
+
+[9] https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=0gfOgjsIUYbTc7Cxd2cGCw==&system=prod
+
+[10] https://www.sygna.io/blog/what-is-mica-markets-in-crypto-assets-eu-regulation-guide/
+
+[11] https://www.jdsupra.com/legalnews/nfts-but-is-it-art-or-a-security-1053589/
+
+[12] https://www.jonesday.com/en/insights/2021/04/nfts-key-us-legal-considerations-for-an-emerging-asset-class
+
+https://www.technollama.co.uk/copyrfraud-and-copyright-infringement-in-nft
+
+https://www.lexology.com/library/detail.aspx?g=abbf9b0b-29df-4e4c-9267-38316e8692cf
+
+https://www.jdsupra.com/legalnews/a-nft-primer-on-potential-ip-ownership-4066553/
+
+https://news.bloomberglaw.com/ip-law/what-copyright-lawyers-need-to-know-about-nfts
